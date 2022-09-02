@@ -5,8 +5,8 @@ on:
     paths:
       - '**.csproj'
     branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  #pull_request:
+    #branches: [ "main" ]
 
 jobs:
   build:
